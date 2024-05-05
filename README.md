@@ -51,7 +51,8 @@ git clone (https://github.com/Alfastrek/Mall-Customer-Segmentation)
 ```
 2. **Install Dependencies:**
 ```bash 
-pip install -r requirements.txt
+pip install numpy pandas seaborn matplotlib jupyter
+
 ```
 3. 3. **Run the Jupyter Notebook:**
 ```bash
